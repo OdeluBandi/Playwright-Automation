@@ -1,0 +1,49 @@
+[33m[2024-May-08 17:28:12.807 IST][m [37m[Thread ID: 21][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2024-May-08 17:28:12.807 IST][m [37m[Thread ID: 20][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2024-May-08 17:28:12.816 IST][m [37m[Thread ID: 21][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2024-May-08 17:28:12.816 IST][m [37m[Thread ID: 20][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2024-May-08 17:28:12.818 IST][m [37m[Thread ID: 20][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2024-May-08 17:28:12.818 IST][m [37m[Thread ID: 21][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2024-May-08 17:28:12.819 IST][m [37m[Thread ID: 20][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2024-May-08 17:28:12.819 IST][m [37m[Thread ID: 21][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2024-May-08 17:28:13.177 IST][m [37m[Thread ID: 21][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2024-May-08 17:28:13.177 IST][m [37m[Thread ID: 20][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2024-May-08 17:28:13.178 IST][m [37m[Thread ID: 20][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2024-May-08 17:28:13.178 IST][m [37m[Thread ID: 21][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2024-May-08 17:28:13.314 IST][m [37m[Thread ID: 20][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2024-May-08 17:28:13.315 IST][m [37m[Thread ID: 21][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/_rels/workbook.xml.rels
+[33m[2024-May-08 17:28:13.317 IST][m [37m[Thread ID: 21][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2024-May-08 17:28:13.317 IST][m [37m[Thread ID: 20][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[33m[2024-May-08 17:28:13.319 IST][m [37m[Thread ID: 21][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2024-May-08 17:28:13.319 IST][m [37m[Thread ID: 20][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[33m[2024-May-08 17:28:13.321 IST][m [37m[Thread ID: 21][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2024-May-08 17:28:13.321 IST][m [37m[Thread ID: 20][m [94m[PackageRelationshipCollection.parseRelationshipsPart][m [36m[DEBUG][m Parsing relationship: /_rels/.rels
+[33m[2024-May-08 17:28:13.350 IST][m [37m[Thread ID: 21][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2024-May-08 17:28:13.350 IST][m [37m[Thread ID: 20][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2024-May-08 17:28:13.351 IST][m [37m[Thread ID: 21][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2024-May-08 17:28:13.351 IST][m [37m[Thread ID: 20][m [94m[POIXMLFactory.createDocumentPart][m [36m[DEBUG][m using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[33m[2024-May-08 17:28:16.842 IST][m [37m[Thread ID: 21][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'chrome' with headless mode as 'false'
+[33m[2024-May-08 17:28:16.842 IST][m [37m[Thread ID: 20][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'chrome' with headless mode as 'false'
+[33m[2024-May-08 17:28:17.331 IST][m [37m[Thread ID: 21][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1515' and Height '715'
+[33m[2024-May-08 17:28:17.331 IST][m [37m[Thread ID: 20][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1515' and Height '715'
+[33m[2024-May-08 17:28:46.518 IST][m [37m[Thread ID: 20][m [94m[selectingSchool.selectProgram][m [32m[INFO][m Navigated Login Page.
+[33m[2024-May-08 17:28:46.520 IST][m [37m[Thread ID: 20][m [94m[loginPage.applyLogin][m [32m[INFO][m Login to Application using username and password chandler.ben@yopmail.comOdelu@123
+[33m[2024-May-08 17:28:48.005 IST][m [37m[Thread ID: 21][m [94m[selectingSchool.selectProgram][m [32m[INFO][m Navigated Login Page.
+[33m[2024-May-08 17:28:48.007 IST][m [37m[Thread ID: 21][m [94m[loginPage.applyLogin][m [32m[INFO][m Login to Application using username and password chandler.ben@yopmail.comOdelu@123
+[33m[2024-May-08 17:28:56.113 IST][m [37m[Thread ID: 20][m [94m[loginPage.applyLogin][m [36m[DEBUG][m User login to the Application successful.
+[33m[2024-May-08 17:28:57.154 IST][m [37m[Thread ID: 21][m [94m[loginPage.applyLogin][m [36m[DEBUG][m User login to the Application successful.
+[33m[2024-May-08 17:29:07.284 IST][m [37m[Thread ID: 20][m [94m[FTandPreSchool.genderCheck][m [32m[INFO][m Existing User navigated to Student info page
+[33m[2024-May-08 17:29:08.809 IST][m [37m[Thread ID: 21][m [94m[FTandPreSchool.genderCheck][m [32m[INFO][m Existing User navigated to Student info page
+[33m[2024-May-08 17:29:21.605 IST][m [37m[Thread ID: 20][m [94m[accountMenuPages.childrenPage][m [32m[INFO][m child added successfully.
+[33m[2024-May-08 17:29:23.068 IST][m [37m[Thread ID: 21][m [94m[accountMenuPages.childrenPage][m [32m[INFO][m child added successfully.
+[33m[2024-May-08 17:29:35.249 IST][m [37m[Thread ID: 20][m [94m[FTandPreSchool.studentInformation][m [32m[INFO][m Student information added successfully.
+[33m[2024-May-08 17:29:36.549 IST][m [37m[Thread ID: 21][m [94m[FTandPreSchool.studentInformation][m [32m[INFO][m Student information added successfully.
+[33m[2024-May-08 17:29:48.503 IST][m [37m[Thread ID: 20][m [94m[FTandPreSchool.emergencyContactDetails][m [32m[INFO][m Emergency Contact Details Successfully Added.
+[33m[2024-May-08 17:29:49.819 IST][m [37m[Thread ID: 21][m [94m[FTandPreSchool.emergencyContactDetails][m [32m[INFO][m Emergency Contact Details Successfully Added.
+[33m[2024-May-08 17:29:52.054 IST][m [37m[Thread ID: 20][m [94m[FTandPreSchool.mediaclDetails][m [32m[INFO][m Medical Info Details Successfully Added.
+[33m[2024-May-08 17:29:53.386 IST][m [37m[Thread ID: 21][m [94m[FTandPreSchool.mediaclDetails][m [32m[INFO][m Medical Info Details Successfully Added.
+[33m[2024-May-08 17:30:42.265 IST][m [37m[Thread ID: 21][m [94m[FTandPreSchool.waitlistAlertPopup][m [32m[INFO][m Waitlist Confirmation Popup displayed
+[33m[2024-May-08 17:30:52.213 IST][m [37m[Thread ID: 20][m [94m[paymentOptions.payButton][m [36m[DEBUG][m User successfully completed application.
+[33m[2024-May-08 17:30:55.648 IST][m [37m[Thread ID: 21][m [94m[paymentOptions.payButton][m [36m[DEBUG][m User successfully completed application.
+[33m[2024-May-08 17:31:03.565 IST][m [37m[Thread ID: 20][m [94m[paymentOptions.payButton][m [36m[DEBUG][m User successfully singedout.
+[33m[2024-May-08 17:31:05.957 IST][m [37m[Thread ID: 21][m [94m[paymentOptions.payButton][m [36m[DEBUG][m User successfully singedout.
