@@ -15,7 +15,7 @@ jobs:
       - name: Deploy JavaDoc 🚀
         uses: OdeluBandi/Javadoc-publisher.yml@v2.5.0
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ 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 }}
           javadoc-branch: javadoc
           java-version: 17
           target-folder: javadoc # url will be https://<username>.github.io/<repo>/javadoc, This can be left as nothing to generate javadocs in the root folder.
